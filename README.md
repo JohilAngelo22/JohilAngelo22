@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Johil Angelo</h1>
-<h3 align="center">SDET focused on automation and API testing</h3>
+<h3 align="center">SDET focused on automation UI and API testing</h3>
 
 ---
 
